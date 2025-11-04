@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>Styled Page</title>
+				<link rel="stylesheet" href="style.css">
+					
+	</head>
+	<body>
+					
+
+		<div class="container">
+			<h1>Page Heading</h1>
+			<p>Your content goes here. This paragraph is now styled by the external CSS file, and it sits inside a centered container.</p>
+			
+            <form>
+                <div>
+				    <label>Name</label>
+					<input name="first name" type="text" id="name-input">
+                </div>
+                <div>
+				    <label>Email</label>
+					<input name="email" type="text" id="email-input">
+                </div>
+                <div>
+				    <label>Course</label>
+					<input name="course" type="text" id="course-input">
+                </div>
+			</form>
+		</div>
+		<script>
+			// 1. Get all the inputs from the user
+			let name = prompt("Please enter your name", "enter here");
+			let email = prompt("Please enter your email", "enter here");
+			let course = prompt("Please enter your course", "enter here");
+
+			// 2. Find the HTML elements by their new 'id'
+			let nameInputBox = document.getElementById("name-input");
+			let emailInputBox = document.getElementById("email-input");
+			let courseInputBox = document.getElementById("course-input");
+
+			// 3. Set the 'value' of those elements to the variables
+			nameInputBox.value = name;
+			emailInputBox.value = email;
+			courseInputBox.value = course;
+
+			// (Your alerts will still work)
+			alert("Hello " + name);
+			alert("Is this correct: " + email);
+			alert("Is this correct: " + course);
+		</script>
+
+
+	</body>
+</html>

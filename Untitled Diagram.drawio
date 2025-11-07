@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="EkMK8JtRt7IoDaIZYTf9">
-    <mxGraphModel dx="1233" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2081" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,16 +151,16 @@
         <mxCell id="tfECJmMbujhKw8Ylu3S0-47" value="BUTTON" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2385" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-1" value="&lt;blockquote style=&quot;text-align: justify; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;This wireframe has a number of elements to it there will also be a main background image that will be on both pages to be inline with the theme of water sustianablity&amp;nbsp;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="880" y="40" width="470" height="200" as="geometry" />
+        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-1" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;This wireframe has a number of elements to it&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;there will also be a main background image&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;that will be on both pages&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;to be inline with the theme of water sustianablity&amp;nbsp;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="50" width="470" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-2" value="with this layout i aim to show the numerous ways that water is affected in the world&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-2" value="with this layout i aim to show the numerous ways that water is affected in the world&amp;nbsp;&lt;div&gt;the main body will mainly just be infromation and images&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;with a button on the first page to link to a contact page&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="295" width="470" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-3" value="the buttons on the second page will link to important websites about water with a link to the main page of our site&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="540" width="470" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UXJ3BB8loD4Em0G_wf-Q-4" value="navagation will be performed via links embbedded in to the text when approreoite&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="795" width="470" height="200" as="geometry" />
         </mxCell>
       </root>
